@@ -1,5 +1,4 @@
 package net.fuzui.StudentInfo.pojo;
-
 public class Teacher implements java.io.Serializable{
     //序列化
     private static final long serialVersionUID = 1L;
