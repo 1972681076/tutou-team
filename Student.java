@@ -1,5 +1,4 @@
 package net.fuzui.StudentInfo.pojo;
-
 public class Student implements java.io.Serializable{
 
 	//序列化
