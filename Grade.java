@@ -10,7 +10,6 @@ public class Grade {
 	private String sid;
 	private Integer grade;
 	private Integer credits;
-	
 	public String getCid() {
 		return cid;
 	}
